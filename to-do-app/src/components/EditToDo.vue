@@ -1,12 +1,12 @@
 <template>
   <div>
-    <div>
+    <form @submit="$emit('addToDo')">
       <input type="text" v-model="title" name="title" />
       <input type="text" v-model="description" name="Beschreibung" />
       <input type="date" v-model="dueDate" name="Fällig" />
 
-      <button type="submit" @click="$emit('addToDo')">Hinzufügen</button>
-    </div>
+      <button type="submit">Hinzufügen</button>
+    </form>
   </div>
 </template>
 
