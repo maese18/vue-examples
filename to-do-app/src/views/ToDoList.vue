@@ -7,9 +7,6 @@
     <div>
       <pre><code>{{JSON.stringify(todoItems,null,2)}}</code></pre>
     </div>
-    <!-- <div>
-      <pre><code>{{editedTodo}}</code></pre>
-    </div> -->
   </div>
 </template>
 
