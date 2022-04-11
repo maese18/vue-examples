@@ -1,19 +1,8 @@
 # Aufgabe
 
-Voraussetzungen:
-- node.js
-- git installieren
-- yarn installieren
-- vue: 
-    ``` # latest stable
-        $ npm install vue
-    ```
-- installiere alle packages:
-  ``` $npm install ```
-
 Aufgabenstellung:
-1. Wechsle auf den Branch "task-1"
-2. Erstelle einen eigenen Branch mit Deinem Vornamen
+1. Wechsle auf den Branch "task-2"
+2. Erstelle einen Branch "task-2/[dein Vorname] ausgehend vom Branch "task-2"
 3. Starte die App: ```yarn serve```
 4. Versuche als erstes, die Struktur des vorhandenen Codes zu verstehen (15')
 5. Gestalte die Komponente ToDoList.vue (Grafische Gestaltung, unnötige Ausgaben entfernen) (15')
