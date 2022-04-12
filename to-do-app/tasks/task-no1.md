@@ -9,14 +9,14 @@ Voraussetzungen:
         $ npm install vue
     ```
 - installiere alle packages:
-  ``` $npm install ```
+  ```$npm install```
 
 Aufgabenstellung:
-1. Wechsle auf den Branch "task-1"
-2. Erstelle einen eigenen Branch mit Deinem Vornamen
-3. Starte die App: ```yarn serve```
-4. Versuche als erstes, die Struktur des vorhandenen Codes zu verstehen (15')
-5. Gestalte die Komponente ToDoList.vue (Grafische Gestaltung, unnötige Ausgaben entfernen) (15')
-6. Für die Ausgabe eines einzelnen ToDo's ist eine separate Komponente "ToDo.vue" vorbereitet. Binde diese Komponente nun in ToDoList.vue ein.
-7. Ergänze und gestalte das Erfassungsformular EditToDo.vue
+   
+1. Erstelle einen eigenen Branch mit Deinem Vornamen
+2. Starte die App: ```yarn serve```
+3. Versuche als erstes, die Struktur des vorhandenen Codes zu verstehen (15')
+4. Gestalte die Komponente ToDoList.vue (Grafische Gestaltung, unnötige Ausgaben entfernen) (15')
+5. Für die Ausgabe eines einzelnen ToDo's ist eine separate Komponente "ToDo.vue" vorbereitet. Binde diese Komponente nun in ToDoList.vue ein.
+6. Ergänze und gestalte das Erfassungsformular EditToDo.vue
    
